@@ -228,7 +228,7 @@ span {
   align-items: center;
   flex-wrap: wrap;
   justify-content: space-around;
-  width: 650px;
+  width: 45vw;
 }
 .main_container .container-image_text .right-card_box a {
   text-decoration: none;
